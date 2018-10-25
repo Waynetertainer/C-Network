@@ -1,0 +1,2 @@
+C:\Users\Joshua.Tobias\Documents\Unity\NetworkCSharp\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Joshua.Tobias\Documents\Unity\NetworkCSharp\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

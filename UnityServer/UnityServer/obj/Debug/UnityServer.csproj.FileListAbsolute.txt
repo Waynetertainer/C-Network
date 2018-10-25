@@ -1,0 +1,10 @@
+c:\users\joshua.tobias\source\repos\UnityServer\UnityServer\bin\Debug\UnityServer.exe.config
+c:\users\joshua.tobias\source\repos\UnityServer\UnityServer\bin\Debug\UnityServer.exe
+c:\users\joshua.tobias\source\repos\UnityServer\UnityServer\bin\Debug\UnityServer.pdb
+c:\users\joshua.tobias\source\repos\UnityServer\UnityServer\obj\Debug\UnityServer.csprojAssemblyReference.cache
+c:\users\joshua.tobias\source\repos\UnityServer\UnityServer\obj\Debug\UnityServer.csproj.CoreCompileInputs.cache
+c:\users\joshua.tobias\source\repos\UnityServer\UnityServer\obj\Debug\UnityServer.exe
+c:\users\joshua.tobias\source\repos\UnityServer\UnityServer\obj\Debug\UnityServer.pdb
+C:\Users\Joshua.Tobias\source\repos\UnityServer\UnityServer\bin\Debug\ByteBuffer.dll
+C:\Users\Joshua.Tobias\source\repos\UnityServer\UnityServer\bin\Debug\ByteBuffer.pdb
+C:\Users\Joshua.Tobias\source\repos\UnityServer\UnityServer\obj\Debug\UnityServer.csproj.CopyComplete
