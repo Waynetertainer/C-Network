@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{A5EC6AC9-F419-BBC4-2056-3610CA87F0BE}</ProjectGuid>
+    <ProjectGuid>{521CD6DD-EF39-E515-CF53-8202427482BF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -68,16 +68,16 @@
     <Compile Include="Assets\Server\Scripts\NetworkManager.cs" />
     <Compile Include="Assets\Server\Scripts\ServerTCP.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/Joshua.Tobias/Documents/Unity/NetworkCSharp/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Joshua.Tobias/Documents/Unity/NetworkCSharp/C# Network/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Joshua.Tobias/Documents/Unity/NetworkCSharp/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Joshua.Tobias/Documents/Unity/NetworkCSharp/C# Network/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Joshua.Tobias/Documents/Unity/NetworkCSharp/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Joshua.Tobias/Documents/Unity/NetworkCSharp/C# Network/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Joshua.Tobias/Documents/Unity/NetworkCSharp/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Joshua.Tobias/Documents/Unity/NetworkCSharp/C# Network/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -277,14 +277,14 @@
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
+    <Reference Include="ByteBuffer">
+      <HintPath>C:/Users/Joshua.Tobias/Documents/Unity/NetworkCSharp/C# Network/Assets/Plugins/ByteBuffer.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>C:/Users/Joshua.Tobias/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.StandardEvents">
       <HintPath>C:/Users/Joshua.Tobias/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
-    </Reference>
-    <Reference Include="ByteBuffer">
-      <HintPath>C:/Users/Joshua.Tobias/Documents/Unity/NetworkCSharp/Assets/Plugins/ByteBuffer.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>

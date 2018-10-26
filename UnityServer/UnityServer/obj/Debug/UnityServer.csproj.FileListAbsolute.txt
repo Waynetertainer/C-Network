@@ -8,3 +8,13 @@ c:\users\joshua.tobias\source\repos\UnityServer\UnityServer\obj\Debug\UnityServe
 C:\Users\Joshua.Tobias\source\repos\UnityServer\UnityServer\bin\Debug\ByteBuffer.dll
 C:\Users\Joshua.Tobias\source\repos\UnityServer\UnityServer\bin\Debug\ByteBuffer.pdb
 C:\Users\Joshua.Tobias\source\repos\UnityServer\UnityServer\obj\Debug\UnityServer.csproj.CopyComplete
+C:\Users\Joshua.Tobias\Documents\Unity\NetworkCSharp\C# Network\UnityServer\UnityServer\bin\Debug\UnityServer.exe.config
+C:\Users\Joshua.Tobias\Documents\Unity\NetworkCSharp\C# Network\UnityServer\UnityServer\bin\Debug\UnityServer.exe
+C:\Users\Joshua.Tobias\Documents\Unity\NetworkCSharp\C# Network\UnityServer\UnityServer\bin\Debug\UnityServer.pdb
+C:\Users\Joshua.Tobias\Documents\Unity\NetworkCSharp\C# Network\UnityServer\UnityServer\bin\Debug\ByteBuffer.dll
+C:\Users\Joshua.Tobias\Documents\Unity\NetworkCSharp\C# Network\UnityServer\UnityServer\bin\Debug\ByteBuffer.pdb
+C:\Users\Joshua.Tobias\Documents\Unity\NetworkCSharp\C# Network\UnityServer\UnityServer\obj\Debug\UnityServer.csprojAssemblyReference.cache
+C:\Users\Joshua.Tobias\Documents\Unity\NetworkCSharp\C# Network\UnityServer\UnityServer\obj\Debug\UnityServer.csproj.CoreCompileInputs.cache
+C:\Users\Joshua.Tobias\Documents\Unity\NetworkCSharp\C# Network\UnityServer\UnityServer\obj\Debug\UnityServer.csproj.CopyComplete
+C:\Users\Joshua.Tobias\Documents\Unity\NetworkCSharp\C# Network\UnityServer\UnityServer\obj\Debug\UnityServer.exe
+C:\Users\Joshua.Tobias\Documents\Unity\NetworkCSharp\C# Network\UnityServer\UnityServer\obj\Debug\UnityServer.pdb

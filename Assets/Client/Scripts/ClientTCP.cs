@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
+using System.Net;
 using System.Net.Sockets;
 using UnityEngine;
 using Debug = UnityEngine.Debug;
@@ -18,7 +19,8 @@ namespace Assets.Client.Scripts
         public byte[] receivedBytes;
         public bool handleData = false;
 
-        private string IP_ADDRESS = "127.0.0.1";
+        private string IP_ADDRESS = "10.1.4.255";
+        private IPAddress IP_Address = IPAddress.Parse("10.1.4.55");
         private int PORT = 2711;
 
         private void Awake()
@@ -44,7 +46,9 @@ namespace Assets.Client.Scripts
             asyncBuffer= new byte[8192];
             try
             {
-                client.BeginConnect(IP_ADDRESS, PORT, new AsyncCallback(ConnectCallback), client);
+                Debug.Log("Trying to connect");
+                client.BeginConnect(IP_Address, PORT, new AsyncCallback(ConnectCallback), client);
+                Debug.Log("Connected");
             }
             catch (Exception)
             {
