@@ -1,0 +1,12 @@
+c:\users\joshua.tobias\source\repos\ByteBuffer\ByteBuffer\bin\Debug\ByteBuffer.dll
+c:\users\joshua.tobias\source\repos\ByteBuffer\ByteBuffer\bin\Debug\ByteBuffer.pdb
+c:\users\joshua.tobias\source\repos\ByteBuffer\ByteBuffer\obj\Debug\ByteBuffer.csprojAssemblyReference.cache
+c:\users\joshua.tobias\source\repos\ByteBuffer\ByteBuffer\obj\Debug\ByteBuffer.csproj.CoreCompileInputs.cache
+c:\users\joshua.tobias\source\repos\ByteBuffer\ByteBuffer\obj\Debug\ByteBuffer.dll
+c:\users\joshua.tobias\source\repos\ByteBuffer\ByteBuffer\obj\Debug\ByteBuffer.pdb
+C:\Users\Joshua.Tobias\Documents\Unity\NetworkCSharp\C# Network\ByteBuffer\ByteBuffer\bin\Debug\ByteBuffer.dll
+C:\Users\Joshua.Tobias\Documents\Unity\NetworkCSharp\C# Network\ByteBuffer\ByteBuffer\bin\Debug\ByteBuffer.pdb
+C:\Users\Joshua.Tobias\Documents\Unity\NetworkCSharp\C# Network\ByteBuffer\ByteBuffer\obj\Debug\ByteBuffer.csprojAssemblyReference.cache
+C:\Users\Joshua.Tobias\Documents\Unity\NetworkCSharp\C# Network\ByteBuffer\ByteBuffer\obj\Debug\ByteBuffer.csproj.CoreCompileInputs.cache
+C:\Users\Joshua.Tobias\Documents\Unity\NetworkCSharp\C# Network\ByteBuffer\ByteBuffer\obj\Debug\ByteBuffer.dll
+C:\Users\Joshua.Tobias\Documents\Unity\NetworkCSharp\C# Network\ByteBuffer\ByteBuffer\obj\Debug\ByteBuffer.pdb
